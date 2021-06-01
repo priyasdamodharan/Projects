@@ -1,2 +1,2 @@
 # Projects
-A repo to keep track of my projects.
+A repo to keep track of my java projects.
